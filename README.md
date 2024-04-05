@@ -6,14 +6,23 @@ Air pollution is a pressing environmental issue with significant implications fo
 ## Features
 
 Country Code 
+
 City
+
 Location
+
 Coordinates 
+
 Pollutant 
+
 Source Name 
+
 Unit
+
 Value
+
 Last Updated
+
 Country Label
 
 
